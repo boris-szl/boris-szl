@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me -> boris.szelcsanyi@student.unisg.ch 
 - List of interesting math blogs:
-  - https://mathblogging.org/
+  - https://mathblogging.org/ (collection of math blogs)
   - https://blog.tanyakhovanova.com/
   - https://terrytao.wordpress.com/
   - https://gowers.wordpress.com/
