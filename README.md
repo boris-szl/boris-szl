@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me -> boris.szelcsanyi@student.unisg.ch 
 
-- Websites I browse frequently:
+Websites I frequently browse:
 - Algorithms:
   - https://cp-algorithms.com/
 - List of interesting math blogs:
