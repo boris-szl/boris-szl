@@ -2,5 +2,12 @@
 - 👀 I’m interested in Algorithms, Mathematics (especially Linear Algebra), Cryptography, Cybersecurity
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me -> boris.szelcsanyi@student.unisg.ch 
-
+- List of interesting math blogs:
+  - https://mathblogging.org/
+  - https://blog.tanyakhovanova.com/
+  - https://terrytao.wordpress.com/
+  - https://gowers.wordpress.com/
+  - https://qchu.wordpress.com/
+- What everyone should read:
+  - https://www.quantamagazine.org/
 
