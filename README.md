@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Boris</h1>
 <h3 align="center">Fullstack Developer. Currently working as:</h3>
+
 <div align="center">
   <p>Backend/DevOps Engineer <b>@nu.education</b>. (employed)</p>
-  <p>Fullstack Engineer<b>@watchpulse</b> and <b>@rechtschnell</b> (private).</p>
+  <p>Fullstack Engineer <b>@watchpulse</b> and <b>@rechtschnell</b> (private).</p>
 </div>
 
 <p align="middle">
