@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boris</h1>
-<h3 align="center">Fullstack :)</h3>
+<h3 align="center">Fullstack Developer. Currently on the Backend/DevOps Team @nu.education.</h3>
 
 <p align="middle">
   <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
