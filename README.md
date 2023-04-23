@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Boris</h1>
-<h3 align="center">Fullstack Developer. Currently on the Backend/DevOps Team @nu.education.</h3>
+<h3 align="center">Fullstack Developer. Currently working as:</h3>
+<div align="center">
+  <p>Backend/DevOps Engineer <b>@nu.education</b>. (employed)</p>
+  <p>Fullstack Engineer<b>@watchpulse</b> and <b>@rechtschnell</b> (private).</p>
+</div>
 
 <p align="middle">
   <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
