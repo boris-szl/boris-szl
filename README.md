@@ -4,7 +4,7 @@
 <div align="center">
   <p>Backend/DevOps Engineer <b>@nu.education</b>. (employed)</p>
   <p>Fullstack Engineer <b>@watchpulse</b> and <b>@rechtschnell</b> (private).</p>
-  <p>CTO <b>@Paradigm-Solutions</b>.</p>
+  <p>Fullstack<b>@Paradigm-Solutions</b>.</p>
 </div>
 
 <p align="middle">
