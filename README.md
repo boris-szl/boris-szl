@@ -3,7 +3,7 @@
 
 <div align="center">
   <p>Python, Java, Spring, K8s, Linux @ <b>@nu.education</b>. (employed)</p>
-  <p>Javas- / Typescript and React Native <b>@rechtschnell</b> - <b>@Paradigm-Solutions</b> (private).</p>
+  <p>Java- / Typescript and React Native <b>@rechtschnell</b> - <b>@Paradigm-Solutions</b> (private).</p>
 </div>
 
 <p align="middle">
