@@ -1,5 +1,3 @@
-<h3 align="center">Fullstack Developer. Currently working as:</h3>
-
 <div align="center">
   <p>Python, Java, Spring, K8s, Linux @ <b>@nu.education</b>. (employed)</p>
   <p>Java- / Typescript and React Native <b>@rechtschnell</b> - <b>@Paradigm-Solutions</b> (private).</p>
