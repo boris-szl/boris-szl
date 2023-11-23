@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Boris</h1>
 <h3 align="center">Fullstack Developer. Currently working as:</h3>
 
 <div align="center">
