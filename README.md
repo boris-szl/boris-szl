@@ -2,8 +2,8 @@
 <h3 align="center">Fullstack Developer. Currently working as:</h3>
 
 <div align="center">
-  <p>Backend/DevOps Engineer <b>@nu.education</b>. (employed)</p>
-  <p>Fullstack Engineer <b>@watchpulse</b> - <b>@rechtschnell</b> - <b>@Paradigm-Solutions</b> (private).</p>
+  <p>Kubernetes, Linux, Java and Spring @ <b>@nu.education</b>. (employed)</p>
+  <p>Javas- / Typescript and React Native <b>@rechtschnell</b> - <b>@Paradigm-Solutions</b> (private).</p>
 </div>
 
 <p align="middle">
