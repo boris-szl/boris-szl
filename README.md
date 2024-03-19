@@ -1,6 +1,6 @@
 <div align="center">
   <p>Backend @ <b>@nu.education</b>. (employed)</p>
-  <p>Full-Stack and Mobile @ <b>@rechtschnell</b> - <b>@Paradigm-Solutions</b> (private).</p>
+  <p>Full-Stack and Mobile @ <b>@rechtschnell</b> - <b>@Paradigm-Solutions</b> (freelance).</p>
 </div>
 
 <p align="middle">
