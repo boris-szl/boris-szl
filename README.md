@@ -1,8 +1,3 @@
-<div align="center">
-  <p>Backend @ <b>@nu.education</b>. (employed)</p>
-  <p>Full-Stack and Mobile @ <b>@rechtschnell</b> - <b>@Paradigm-Solutions</b> (freelance).</p>
-</div>
-
 <p align="middle">
   <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
   <img src="https://github-profile-trophy.vercel.app/?username=boris-szl" alt="boris-szl"/>
